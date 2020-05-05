@@ -1,4 +1,4 @@
-" [VIM]:[CONFIGURACION]:[Black Reaper]
+" [VIM]:[CONFIGURACION]:[Black Reaper - Fedeya]
 
 " 1) Plugins
 " 2) Opciones de alineado
